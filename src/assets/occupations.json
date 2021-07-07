@@ -1,0 +1,32 @@
+[
+    {
+        "occupationId": 1,
+        "occupationName": "Cleaner",
+        "occupationRating": 3
+    },
+    {
+        "occupationId": 2,
+        "occupationName": "Doctor",
+        "occupationRating": 1
+    },
+    {
+        "occupationId": 3,
+        "occupationName": "Author",
+        "occupationRating": 2
+    },
+    {
+        "occupationId": 4,
+        "occupationName": "Farmer",
+        "occupationRating": 4
+    },
+    {
+        "occupationId": 5,
+        "occupationName": "Mechanic",
+        "occupationRating": 4
+    },
+    {
+        "occupationId": 6,
+        "occupationName": "Florist",
+        "occupationRating": 3
+    }
+]

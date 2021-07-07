@@ -1,0 +1,22 @@
+[
+    {
+        "ratingId":1,
+        "ratingName":"Professional",
+        "ratingFactor":1.0
+    },
+    {
+        "ratingId":2,
+        "ratingName":"White Collar",
+        "ratingFactor":1.25
+    },
+    {
+        "ratingId":3,
+        "ratingName":"Light Manual",
+        "ratingFactor":1.50
+    },
+    {
+        "ratingId":4,
+        "ratingName":"Heavy Manual",
+        "ratingFactor":1.75
+    }
+]
